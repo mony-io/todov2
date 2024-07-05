@@ -21,5 +21,5 @@ export default defineComponent({
 </script>
 
 <style>
-  @import './style.css';
+@import './assets/styles/global.css';
 </style>
