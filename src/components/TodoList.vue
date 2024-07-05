@@ -34,9 +34,9 @@ export default defineComponent({
 .todo-list {
     display: flex;
     flex-direction: column;
-    gap: 10px;
     padding: 10px;
-    max-width: 600px;
+    width: 405px;
+    overflow: hidden;
     margin: 0 auto;
 }
 

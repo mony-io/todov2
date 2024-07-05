@@ -8,7 +8,7 @@ interface Todo {
 }
 
 interface TodoState {
-  todos: Todo[];
+  todos: Todo[]; 
 }
 
 const todo: Module<TodoState, {}> = {

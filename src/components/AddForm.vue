@@ -46,13 +46,13 @@ export default defineComponent({
 
 <style scoped>
 input {
-    margin-right: 10px;
-    padding: 5px;
+    margin-right: 6px;
+    padding: 10px 5px;
     width: 300px;
 }
 
 button {
-    padding: 5px 10px;
+    padding: 9px;
 }
 
 .error-border {

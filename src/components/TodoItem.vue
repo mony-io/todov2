@@ -49,7 +49,7 @@ export default defineComponent({
     align-items: center;
     justify-content: space-between;
     margin-bottom: 10px;
-    padding: 10px;
+    padding: 6px 12px;
     border: 1px solid #ccc;
     border-radius: 4px;
     background-color: #f9f9f9;
