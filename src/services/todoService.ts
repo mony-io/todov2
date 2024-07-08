@@ -1,8 +1,4 @@
-interface Todo {
-  id: number;
-  text: string;
-  completed: boolean;
-}
+import { Todo } from "../type/todo.type";
 
 let nextId = initializeNextId();
 

@@ -1,11 +1,6 @@
 import { Module } from 'vuex';
 import { fetchTodos, addTodo, removeTodo, toggleTodo } from '../services/todoService';
-
-interface Todo {
-  id: number;
-  text: string;
-  completed: boolean;
-}
+import { Todo } from '../type/todo.type';
 
 interface TodoState {
   todos: Todo[]; 
